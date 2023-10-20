@@ -9,12 +9,12 @@ public class manav_kasa {
         double toplam_tutar;
 
         Scanner inp = new Scanner(System.in);
-        System.out.print("Armut kaç kilo:" );
+        System.out.print("Armut kaç kilo:" );  
         a1 = inp.nextDouble();
 
 
         System.out.print("Elma kaç kilo:" );
-        e1 = inp.nextDouble();
+        e1 = inp.nextDouble();   
 
 
         System.out.print("Domates kaç kilo:" );
